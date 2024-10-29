@@ -94,7 +94,7 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: url('/asset/Desktop\ -\ 2.png') no-repeat center center/cover;
+    background: url('./asset/Desktop\ -\ 2.png') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
