@@ -1,7 +1,7 @@
 # UKIM Unesa Website
 
 ## Description
-This is the official website for **UKIM Unesa** (Unit Kegiatan Ilmiah Mahasiswa Universitas Negeri Surabaya). The website serves as an informational platform to showcase the organization's vision, departments, latest updates, and events. It aims to provide students and visitors with easy access to relevant information about UKIM Unesa's activities and initiatives.
+This is the Redesign website for **UKIM Unesa** (Unit Kegiatan Ilmiah Mahasiswa Universitas Negeri Surabaya). The website serves as an informational platform to showcase the organization's vision, departments, latest updates, and events. It aims to provide students and visitors with easy access to relevant information about UKIM Unesa's activities and initiatives.
 
 ## Features
 - Responsive navigation menu with links to Home, Karya Cipta, and Event pages.
