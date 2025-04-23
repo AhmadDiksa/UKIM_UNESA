@@ -3,6 +3,13 @@
 ## Description
 This is the Redesign website for **UKIM Unesa** (Unit Kegiatan Ilmiah Mahasiswa Universitas Negeri Surabaya). The website serves as an informational platform to showcase the organization's vision, departments, latest updates, and events. It aims to provide students and visitors with easy access to relevant information about UKIM Unesa's activities and initiatives.
 
+## Demo
+**Official Web:** 
+https://ukim.unesa.ac.id/
+
+**Redesign Web:** 
+https://ahmaddiksa.github.io/UKIM_UNESA/
+
 ## Features
 - Responsive navigation menu with links to Home, Karya Cipta, and Event pages.
 - Logo carousel showcasing partner or affiliated logos with smooth continuous scrolling.
